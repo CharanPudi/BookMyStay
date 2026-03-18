@@ -1,4 +1,4 @@
-public abstract class Room {
+abstract class Room {
     protected int numberOfBeds;
     protected int squareFeet;
     protected double pricePerNight;
